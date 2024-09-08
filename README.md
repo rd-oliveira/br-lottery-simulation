@@ -20,8 +20,8 @@ pip install br-lottery-simulation
 ## Usage
 
 ```python
-from play import prize_draw
-from play import utils
+from br_lottery_simulation.play import prize_draw
+prize_draw.generate_numbers_duplasena()
 ```
 
 ## Author
