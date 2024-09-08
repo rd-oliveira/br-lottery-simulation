@@ -9,7 +9,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="br-lottery-simulation",
-    version="0.0.1",
+    version="0.0.2",
     author="richard_oliveira",
     author_email="doomsdayst9@gmail.com",
     description="brazilian lottery game simulation",
